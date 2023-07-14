@@ -1,8 +1,8 @@
 # Youtube-Downloader
 
-It is a python app for downloading media from Youtube.<br>
-Status: unfinished / debugging / improving functionalities<br>
-Currently:<br>
+It is a python app for downloading media from Youtube.<br><br>
+Status: unfinished / debugging / improving functionalities<br><br>
+Currently:<br><br>
 1 - Fetch data from Youtube (thumbnails, video titles & view counts); the fetching should be done without needing a Youtube/Google account.<br>
 2 - Analyze video titles, thumbnails, and video links data so it can be displayed.<br>
 3 - Display a scrollable list with GUI showing: the Title (left-side) with a hyperlink to the video, the Thumbnail (right-side)<br>
